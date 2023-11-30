@@ -1,2 +1,2 @@
 # Talker-app
-This app is a practice exercise on using Github and Python.
+This app is a practice exercise on using Github and Python
